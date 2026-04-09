@@ -194,7 +194,7 @@
     "js-yaml": "^4.0.0",
     "ky": "^0.26.0",
     "lexorank": "^1.0.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "ltstrg": "^1.0.1",
